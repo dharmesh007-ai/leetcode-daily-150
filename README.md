@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/dharmesh007-ai/leetcode-daily-150/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dharmesh007-ai/leetcode-daily-150/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0036-valid-sudoku](https://github.com/dharmesh007-ai/leetcode-daily-150/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/dharmesh007-ai/leetcode-daily-150/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/dharmesh007-ai/leetcode-daily-150/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dharmesh007-ai/leetcode-daily-150/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/dharmesh007-ai/leetcode-daily-150/tree/master/0036-valid-sudoku) |
 | [0169-majority-element](https://github.com/dharmesh007-ai/leetcode-daily-150/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
@@ -82,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/dharmesh007-ai/leetcode-daily-150/tree/master/0042-trapping-rain-water) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/dharmesh007-ai/leetcode-daily-150/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
